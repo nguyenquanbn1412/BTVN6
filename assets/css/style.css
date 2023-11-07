@@ -102,7 +102,7 @@ input:valid ~ label {
 }
 .rbtn-qty {
   --s: 1em;
-  --c: #0c0e83;
+  --c: #1c20f5;
 
   height: var(--s);
   aspect-ratio: 1;
