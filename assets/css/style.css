@@ -201,7 +201,7 @@ input:valid ~ label {
   min-width: 410px;
   min-height: 600px;
   margin: 50px 15px 0 40px;
-  padding: 30px;
+  padding: 27px;
   border: 1px solid lightgray;
   border-radius: 5px;
 }
@@ -212,9 +212,10 @@ input:valid ~ label {
   border-bottom: 1px solid lightgray;
   display: flex;
 }
-.meet-content h2 {
-  font-size: 20px;
+h4 {
+  font-size: 18px;
   font-weight: 600;
+  margin-bottom: 8px;
 }
 .img-meet {
   width: 20%;
@@ -226,9 +227,6 @@ input:valid ~ label {
 }
 .para-meet {
   margin-left: 32px;
-}
-.para-meet h2 {
-  margin-bottom: 8px;
 }
 .para-meet p {
   margin-bottom: 14px;
